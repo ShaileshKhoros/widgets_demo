@@ -1,0 +1,12 @@
+.input-container > input {
+    padding: 10px;
+    border: 1.5px solid gray ;
+    border-radius: 5px;
+    background-color: #fff;
+    color: gray;
+    font-weight: 500;
+    margin:  10px 0;
+  }
+
+ 
+  

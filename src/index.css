@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rightArrow {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  font-size: 2rem;
+}
+
+.leftArrow {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  font-size: 2rem;
+}
