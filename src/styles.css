@@ -17,4 +17,18 @@
     left: 20px;
     font-size: 2rem; */
   }
+
+
+  .drawer-button{
+    padding: 6px 15px;
+background-color: #F3F2F3;
+color: #080608;
+font-weight: 600;
+border-radius: 12px;
+border: 2px solid white;
+font-size: 14px;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 10px 115px;
+  }
   

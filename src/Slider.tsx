@@ -16,8 +16,9 @@ import "./Carousal"
 const StyledSlider = styled.div`
   position: relative;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  margin-top:15%
 `;
 
 

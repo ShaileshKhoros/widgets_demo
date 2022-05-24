@@ -119,7 +119,7 @@ if(drawerOpen){
 
        </SlideDrawer>
        { backdrop }
-       <MainPage toggle={drawerToggleClickHandler}/>
+       {/* <MainPage toggle={drawerToggleClickHandler}/> */}
 
     </div>
     </div>
